@@ -1,0 +1,67 @@
+.body_background{
+    background-image:url(confetti.gif);
+    background-position:center;
+    background-size:cover;
+}
+
+	.div1, .div2
+	{
+		background: rgb(235, 164, 248);
+		float:none;
+	
+		border-radius: 15px;
+	}
+	
+		#player1_name , #player2_name
+		{
+			display: inline-block;
+			margin-left: 20px;
+			color:rgb(0, 0, 0) !important;
+		}
+
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+
+
+#btn1 {
+	width:30%;
+}
+
+h1{
+    color:aliceblue;
+}
+img{
+    width:100px;
+    height:100px;
+    margin-top: 10px;
+    border-width: 5px;
+    border-color: aqua;
+    border-style:ridge;
+}
+
+h3{
+	color:aliceblue;
+}
+#lbl1{
+	color:aliceblue;
+}
+
+#title1, #title2{
+color:aliceblue;
+}
+
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #a9ceec;
+padding: 10px;
+float: none;
+text-align: left;
+}
